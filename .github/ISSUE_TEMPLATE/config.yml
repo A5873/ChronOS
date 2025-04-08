@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ChronOS Documentation
+    url: https://github.com/A5873/ChronOS#readme
+    about: Check out the documentation before submitting an issue.
+  - name: GitHub Community Guidelines
+    url: https://docs.github.com/en/github/site-policy/github-community-guidelines
+    about: Please follow our community guidelines when submitting issues.
+
